@@ -1,0 +1,21 @@
+body{ background-color:black;}
+	
+.text { font-size: 70px;
+	    text-align: center;
+	    text-transform: uppercase;
+	    background: linear-gradient(to right, #A3AEE0, #BECBE9, #D39CDE, #C6538E);
+	    -webkit-background-clip: text;
+	    -webkit-text-fill-color: transparent;
+
+}
+* { margin: 0; padding:0; box-sizing: border-box;
+	font-family: "poppins", sans-serif;
+
+}
+body{ display: flex;  justify-content: center; align-items: center;
+	  min-height:100vh;  overflow:hidden;
+
+}
+ul{ position: relative; }
+
+ul li {list-style: none; text-align: center;}
